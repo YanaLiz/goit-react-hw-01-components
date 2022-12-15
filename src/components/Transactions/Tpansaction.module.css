@@ -1,0 +1,19 @@
+.transactionHistory{
+    display: flex;
+    border: 1px solid rgb(26, 26, 26);
+flex-direction: column;
+}
+tbody{
+    background-color: aliceblue;
+}
+tr{
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 1px solid rgb(26, 26, 26);
+
+}
+td{
+   width: 200px;
+   margin-left: 20px;
+   
+}

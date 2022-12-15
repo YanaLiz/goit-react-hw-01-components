@@ -1,0 +1,35 @@
+    .profile{
+        width: 250px;
+
+        font-size: 18px;
+        background-color: antiquewhite;
+        border-radius: 10px;
+        border-color: cadetblue;
+        
+    }
+    .description{
+        padding: 20px 20px;
+        text-align: center;
+
+    }
+    .avatar{
+        width: 150px;
+        height: 150px;
+        border-radius: 20%;
+        text-align: center;
+        border: 4px solid orchid;
+    }
+    .name{
+        font-size: 25px;
+        font-weight: 500;
+        color: darkgreen;
+    }
+    .stats{
+        display: flex;
+        padding-left: 10px;
+    }
+    li{
+        display: flex;
+
+        flex-wrap: wrap
+    }

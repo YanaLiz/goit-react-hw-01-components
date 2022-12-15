@@ -1,0 +1,28 @@
+    .item{
+        display: flex;
+        padding: 0;
+        width: 300px;
+        height: 110px;
+        background-color: azure;
+        border-radius: 8px;
+        border: 1px solid skyblue;
+    }
+    .status{
+        border-radius: 50%;
+        background-color: darkgreen;
+    }
+    .avatar{
+        border: 8px;
+        width: 100px;
+        height: 100px;
+    }
+    .name{
+        color: black;
+    }
+    .friendList{
+        display: flex;
+        flex-direction: column;
+        padding: 0;
+        text-decoration: none;
+    }
+    

@@ -1,0 +1,16 @@
+.statList{
+    display: flex;
+    background-color: bisque;
+    padding: 0;
+}
+.item{
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    width: 150px;
+    align-items: center;
+    border: 1px solid brown;
+}
+.title{
+    text-align: center;
+}
